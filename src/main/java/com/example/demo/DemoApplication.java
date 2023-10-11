@@ -1,6 +1,5 @@
 package com.example.demo;
 
-import com.example.demo.beginner.fundamentals.VariableDeclaration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
