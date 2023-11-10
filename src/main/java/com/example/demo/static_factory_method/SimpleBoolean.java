@@ -5,13 +5,3 @@ public class SimpleBoolean {
         return b ? Boolean.TRUE : Boolean.FALSE;
     }
 }
-
-
-class Factories {
-
-
-}
-
-class FactoriesTests {
-
-}
